@@ -1,7 +1,7 @@
 
-## MCP Swarm Gemini
+## MCP Swarm Gemini <img width="100" height="100" alt="swarm" src="https://github.com/user-attachments/assets/cb349ef1-6e52-4373-9eae-3247fb9f97ef" />
 
-![Architecture](image.png)
+
 
 [![Node >= 20](https://img.shields.io/badge/node-%3E%3D20.18-blue?logo=node.js)](https://nodejs.org)
 [![TypeScript 5](https://img.shields.io/badge/typescript-5.x-3178c6?logo=typescript)](https://www.typescriptlang.org/)
