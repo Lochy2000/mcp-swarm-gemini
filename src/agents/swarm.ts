@@ -21,7 +21,7 @@ export class Swarm {
     }
   }
 
-  private ensure(role: AgentRole, id = role): Agent {
+  private ensure(role: AgentRole, id: string = role): Agent {
     if (this.agents.has(id)) return this.agents.get(id)!;
     const mem = new Memory();
     const agent: Agent = {
