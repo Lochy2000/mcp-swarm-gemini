@@ -1,5 +1,6 @@
+<img width="100" height="100" alt="swarm" src="https://github.com/user-attachments/assets/cb349ef1-6e52-4373-9eae-3247fb9f97ef"/>
 
-## MCP Swarm Gemini <img width="100" height="100" alt="swarm" src="https://github.com/user-attachments/assets/cb349ef1-6e52-4373-9eae-3247fb9f97ef" />
+## MCP Swarm Gemini 
 
 
 
